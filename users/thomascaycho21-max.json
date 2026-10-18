@@ -1,17 +1,17 @@
 {
   "created_at": "2026-10-18T00:17:16",
-  "last_seen": "2026-10-18T00:17:16",
+  "last_seen": "2026-10-18T00:29:23",
   "progress": {
     "apps_visited": [],
-    "coins_earned_total": 0,
-    "coins_spent_total": 0,
-    "reviews_posted": 0
+    "coins_earned_total": 0.0,
+    "coins_spent_total": 0.0,
+    "reviews_posted": 0.0
   },
   "provider": "github",
   "role": "developer",
   "user": "thomascaycho21-max",
   "wallet": {
-    "balance": 0,
+    "balance": 0.0,
     "transactions": [],
     "user": "thomascaycho21-max"
   }
