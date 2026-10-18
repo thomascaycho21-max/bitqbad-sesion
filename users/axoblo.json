@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-10-18T01:14:21",
+  "last_seen": "2026-10-18T01:14:21",
+  "progress": {
+    "apps_visited": [],
+    "coins_earned_total": 0,
+    "coins_spent_total": 0,
+    "reviews_posted": 0
+  },
+  "provider": "github",
+  "role": "user",
+  "user": "axoblo",
+  "wallet": {
+    "balance": 0,
+    "transactions": [],
+    "user": "axoblo"
+  }
+}
